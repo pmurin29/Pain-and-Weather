@@ -17,13 +17,11 @@ climate-epi-analysis/
 │
 ├── data/
 │   ├── raw/
-│   │   ├── ne_110m_admin_0_countries.shp
-│   │   ├── air.mon.mean.nc
-│   │   ├── slp.mon.mean.nc
-│   │   ├── shum.mon.mean.nc
-│   │   └── complete_dataset_HAQ_GDP.csv
-│   └── processed/
-│       └── complete_dataset_with_weather.csv
+│   ├── ne_110m_admin_0_countries.shp
+│   ├── air.mon.mean.nc
+│   ├── slp.mon.mean.nc
+│   ├── shum.mon.mean.nc
+│   └── complete_dataset_HAQ_GDP.csv
 │
 ├── src/
 │   ├── __init__.py
